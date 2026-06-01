@@ -183,7 +183,7 @@ def normalize_names(names: list) -> list:
         names: List of names to normalize.
 
     Returns:
-        List of normalized names.
+        List of normalized names1.
 
     """
     result = []
